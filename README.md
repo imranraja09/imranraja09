@@ -1,5 +1,34 @@
 <h1 align="center">Hi 👋, I'm Imran Raja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<!-- ===================== -->
+<!-- Animated Gradient Header -->
+<!-- ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Imran%20Raja%20🚀&fontSize=65&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Builder&descAlignY=55"/>
+</p>
+
+<h1 align="center">🌈 Welcome to My GitHub Profile</h1>
+
+<p align="center">
+✨ Turning Ideas into Reality with Code ✨  
+</p>
+
+---
+
+## 💫 About Me
+
+<p align="center">
+👨‍💻 Web Developer & AI Explorer  
+🤖 Passionate about Artificial Intelligence  
+🚀 Love building real-world applications  
+🧠 Creator of Jarvis AI Assistant  
+🎬 Built Movie Streaming Platforms  
+📚 Always learning new technologies  
+✨ Clean Code + Creative UI  
+</p>
+
+---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranraja09&label=Profile%20views&color=0e75b6&style=flat" alt="imranraja09" /> </p>
 

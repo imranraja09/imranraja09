@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Raja</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <!-- Animated Gradient Header -->
 <p align="center">

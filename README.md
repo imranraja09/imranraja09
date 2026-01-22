@@ -1,18 +1,18 @@
-<!-- =================== ANIME STYLE BANNER =================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Imran%20Raja&fontSize=42&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20Tools%20Learner&descAlignY=60&animation=fadeIn" />
+<!-- =================== MULTI-COLOR ANIME BANNER =================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Imran%20Raja&fontSize=42&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20Tools%20Learner&descAlignY=60" />
 
 <p align="center">
-  <img src="https://i.ibb.co/4s7xH2S/anime-boy-coding.gif" width="300" style="border-radius:20px;" />
+  <img src="https://i.ibb.co/4s7xH2S/anime-boy-coding.gif" width="320" style="border-radius:25px; box-shadow:0 0 20px #00f,0 0 40px #0ff;" />
 </p>
 
-<!-- =================== TYPING ANIMATION =================== -->
+<!-- =================== MULTI-COLOR TYPING =================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Beginner+Web+Developer;Learning+AI+Tools+%26+Automation;HTML+CSS+JavaScript+Python;Future+Full+Stack+%26+AI+Developer;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF00FF&center=true&vCenter=true&width=750&lines=Beginner+Web+Developer;Learning+AI+Tools+%26+Automation;HTML+CSS+JavaScript+Python;Future+Full+Stack+%26+AI+Developer;Building+Projects+Every+Day" />
 </p>
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#ff00cc,#3333ff,#00ffcc) 1; box-shadow:0 0 25px #00f;">
 
 ## 👋 Hi, I'm Imran Raja  
 💻 Beginner Web Developer | 🤖 AI Tools Learner | 🚀 Tech Explorer  
@@ -23,7 +23,7 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#00ffcc,#ffcc00,#ff0066) 1; box-shadow:0 0 25px #0ff;">
 
 ## 🚀 About Me
 🌱 Learning Web Development & AI  
@@ -36,7 +36,7 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#8a2be2,#00ffff,#00ff00) 1; box-shadow:0 0 25px #8a2be2;">
 
 ## 🛠️ Skills & Technologies
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,php,mysql" />
@@ -45,7 +45,7 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#ff6600,#ff00ff,#00ccff) 1; box-shadow:0 0 25px #ff00ff;">
 
 ## 🤖 AI & Tech Interests
 ✨ Artificial Intelligence  
@@ -58,7 +58,7 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#00ff99,#ff3333,#9933ff) 1; box-shadow:0 0 25px #ff3333;">
 
 ## 🔥 Featured Projects
 🧠 Jarvis AI Assistant – Voice-based AI assistant  
@@ -69,56 +69,56 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ---
 
-## 🎮 Live GitHub Games & Animations
+## 🐍 Live Games & Animations (Multi-Color)
 
 ### 🐍 Snake Contribution Game
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-### 🕹️ 3D Contribution Graph
+### 🌈 3D Contribution (Rainbow)
 ![3D Profile](https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-### 🎯 Activity Graph
+### ⚡ Activity Graph (Neon)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
 
 ---
 
-## 📊 GitHub Stats Dashboard
+## 📊 Multi-Color GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180" style="border-radius:15px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180" style="border-radius:15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=neon-dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" style="border-radius:15px;"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-<div align="center" style="border-radius:20px; padding:20px; border:1px solid #444;">
+## 🏆 Rainbow GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1" />
+</p>
+
+---
+
+<div align="center" style="border-radius:25px; padding:25px; border:2px solid; border-image:linear-gradient(45deg,#00ccff,#ff00cc,#00ff66) 1; box-shadow:0 0 25px #00ccff;">
 
 ## 🌐 Connect With Me
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&color=000000" />
 </a>
 
 <a href="https://www.linkedin.com/in/imran-raja-bab726309">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://Instagram.com/__imran.mlyk">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-FF0066?style=for-the-badge&logo=instagram" />
 </a>
 
 <a href="https://www.linkedin.com/in/imran-raja-bab726309">
-  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x" />
 </a>
 
 </div>
@@ -127,13 +127,13 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
 </p>
 
 ---
 
-## 💡 Developer Quote
-> "Learning today to build smarter tomorrow." 🚀
+## 💡 Developer Quote (Neon)
+> 🌈 "Learning today to build smarter tomorrow." 🚀
 
-<!-- =================== FOOTER =================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" />
+<!-- =================== MULTI-COLOR FOOTER =================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=footer" />

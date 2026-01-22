@@ -78,25 +78,25 @@ I am passionate about learning modern web development and Artificial Intelligenc
 ![3D Profile](https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### ⚡ Activity Graph (Neon)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranraja09&theme=react-dark)
 
 ---
 
 ## 📊 Multi-Color GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=neon-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranraja09&theme=neon-dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranraja09&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🏆 Rainbow GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
@@ -105,15 +105,15 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ## 🌐 Connect With Me
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&color=000000" />
+<a href="https://github.com/imranraja09">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/imran-raja-bab726309">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://Instagram.com/__imran.mlyk">
+<a href="https://instagram.com/__imran.mlyk">
   <img src="https://img.shields.io/badge/Instagram-FF0066?style=for-the-badge&logo=instagram" />
 </a>
 
@@ -127,7 +127,7 @@ I am passionate about learning modern web development and Artificial Intelligenc
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=imranraja09&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
 </p>
 
 ---

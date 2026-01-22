@@ -93,12 +93,8 @@
 
 ---
 
-## 🐍 Contribution Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imranraja09/imranraja09/output/github-contribution-grid-snake.svg" />
-</p>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ## 🎯 My Goals

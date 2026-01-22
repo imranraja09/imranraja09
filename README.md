@@ -32,14 +32,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranraja09&label=Profile%20views&color=0e75b6&style=flat" alt="imranraja09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranraja09" alt="imranraja09" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranraja09" alt="imranraja09" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/imranraja131308" target="blank"><img src="https://img.shields.io/twitter/follow/imranraja131308?logo=twitter&style=for-the-badge" alt="imranraja131308" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [astrafluxon.in](astrafluxon.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/imranraja131308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranraja131308" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imran-raja-bab726309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-raja-bab726309" height="30" width="40" /></a>
 <a href="https://instagram.com/__imran.mlyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__imran.mlyk" height="30" width="40" /></a>

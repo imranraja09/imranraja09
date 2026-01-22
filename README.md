@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F75C7E&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Tools+Learner;Building+Cool+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=03fc77&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Tools+Learner;Building+Cool+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
 <h1 align="center">🌈 Welcome to My GitHub Profile</h1>

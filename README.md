@@ -41,6 +41,13 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,bootstrap,tailwind,laravel,django,flask" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🧰 Tools & Platforms
@@ -54,7 +61,7 @@
 ## 🤖 AI & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 ---
@@ -80,7 +87,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation (Needs Action Setup)
+## 🐍 Contribution Snake Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/imranraja09/imranraja09/output/github-contribution-grid-snake.svg" />
@@ -110,34 +117,15 @@
 - Search & Filter  
 - User Authentication  
 
-### 🌐 Web Applications
-- Business Websites  
-- Portfolio Websites  
-- Admin Dashboards  
-- Custom Web Apps  
-
 ---
 
-## 🎮 Live Games (100% WORKING)
+## 🎮 Live Game
 
 ### 🐍 Snake Game (Working)
+
 <p align="center">
 <a href="https://playsnake.org/" target="_blank">
 <img src="https://img.shields.io/badge/Play%20Snake-FF61D2?style=for-the-badge"/>
-</a>
-</p>
-
-### 🧱 Brick Breaker Game
-<p align="center">
-<a href="https://www.coolmathgames.com/0-brick-breaker" target="_blank">
-<img src="https://img.shields.io/badge/Brick%20Breaker-00C9FF?style=for-the-badge"/>
-</a>
-</p>
-
-### 🧩 Tetris Game
-<p align="center">
-<a href="https://tetris.com/play-tetris" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Tetris-F9D423?style=for-the-badge"/>
 </a>
 </p>
 

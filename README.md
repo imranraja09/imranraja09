@@ -95,6 +95,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 ## 🎯 My Goals

@@ -27,37 +27,35 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,react,git,github,vscode,linux,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,c,cpp,sql" />
 </p>
 
 ---
 
-## 🌟 Programming Languages
+## ⚙️ Frameworks & Libraries
 
-- 🟣 HTML5  
-- 🔵 CSS3  
-- 🟡 JavaScript  
-- 🟢 Python  
-- 🔴 PHP  
-- 🟠 SQL  
-- 🔷 JSON  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,bootstrap,tailwind,laravel,django,flask" />
+</p>
 
 ---
 
-## ⚙️ Frameworks & Tools
+## 🧰 Tools & Platforms
 
-- React.js  
-- Node.js  
-- Express.js  
-- Bootstrap  
-- Tailwind CSS  
-- Git & GitHub  
-- VS Code  
-- Linux  
-- REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma,postman,docker" />
+</p>
+
+---
+
+## 🤖 AI & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
 
 ---
 
@@ -74,18 +72,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (WORKING)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=true&row=2&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=true&row=2&column=5"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation (Needs Action Setup)
 
 <p align="center">
-<img src="https://github.com/imranraja09/imranraja09/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/imranraja09/imranraja09/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -120,32 +118,32 @@
 
 ---
 
-## 🎮 Live Games (Working)
+## 🎮 Live Games (100% WORKING)
 
-### 🐍 Snake Game
+### 🐍 Snake Game (Working)
 <p align="center">
 <a href="https://playsnake.org/" target="_blank">
 <img src="https://img.shields.io/badge/Play%20Snake-FF61D2?style=for-the-badge"/>
 </a>
 </p>
 
-### 🧩 Tetris Game
+### 🧱 Brick Breaker Game
 <p align="center">
-<a href="https://tetris.com/play-tetris" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Tetris-00C9FF?style=for-the-badge"/>
+<a href="https://www.coolmathgames.com/0-brick-breaker" target="_blank">
+<img src="https://img.shields.io/badge/Brick%20Breaker-00C9FF?style=for-the-badge"/>
 </a>
 </p>
 
-### 🏎️ Racing Game
+### 🧩 Tetris Game
 <p align="center">
-<a href="https://www.crazygames.com/game/madalin-stunt-cars-2" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Racing-F9D423?style=for-the-badge"/>
+<a href="https://tetris.com/play-tetris" target="_blank">
+<img src="https://img.shields.io/badge/Play%20Tetris-F9D423?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## 🌐 Social & Contact Links
+## 🌐 Social & Important Links
 
 <p align="center">
 <a href="https://instagram.com/__imran.mlyk" target="_blank">
@@ -167,16 +165,7 @@
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: (Add your email here)  
-- 🌍 Portfolio: (Add your portfolio link)  
-- 💬 DM on Instagram  
-- 🤝 Connect on LinkedIn  
-
----
-
-## 👀 Profile Views Counter
+## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=imranraja09&style=for-the-badge&color=FF61D2"/>
@@ -184,21 +173,12 @@
 
 ---
 
-## 🌟 Fun Facts
+## 🎯 Goals
 
-- 💡 Love learning new tech  
-- 🎨 Enjoy designing colorful UI  
-- 🤖 Passion for AI & Automation  
-- 🚀 Dream to build big tech products  
-
----
-
-## 🧠 Goals
-
-- Build advanced AI systems  
-- Launch SaaS products  
-- Grow open-source projects  
-- Create powerful web platforms  
+- 🚀 Become Full-Stack + AI Developer  
+- 🤖 Build Advanced AI Tools  
+- 🌐 Launch SaaS Products  
+- 🧠 Contribute to Open Source  
 
 ---
 

@@ -1,35 +1,71 @@
-<!-- Animated Banner -->
+<!-- ===================== -->
+<!-- Animated Gradient Header -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Imran%20Raja%20🚀&fontSize=60&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Imran%20Raja%20🚀&fontSize=65&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Builder&descAlignY=55"/>
 </p>
 
-<h2 align="center">💫 About Me</h2>
+<h1 align="center">🌈 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-🌈 Web Developer | 🤖 AI Explorer | 🚀 Project Builder  
-<br>
-💻 HTML • CSS • JavaScript • Python • AI  
-<br>
-🧠 Building Jarvis AI Assistant & Web Apps  
-<br>
-📚 Always Learning New Tech
+✨ Turning Ideas into Reality with Code ✨  
 </p>
 
 ---
 
-<h2 align="center">🛠️ Skills</h2>
+## 💫 About Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,git,github,vscode,ai" />
+👨‍💻 Web Developer & AI Explorer  
+🤖 Passionate about Artificial Intelligence  
+🚀 Love building real-world applications  
+🧠 Creator of Jarvis AI Assistant  
+🎬 Built Movie Streaming Platforms  
+📚 Always learning new technologies  
+✨ Clean Code + Creative UI  
 </p>
 
 ---
 
-<h2 align="center">📊 Multi-Color GitHub Stats (WORKING)</h2>
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61D2&icon_color=00C9FF&text_color=FFFFFF" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imranraja09&theme=radical&hide_border=true&ring=FF61D2&fire=00C9FF&currStreakLabel=F9D423" height="170"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,react,git,github,vscode,linux,ai" />
+</p>
+
+---
+
+## 🌟 Programming Languages
+
+- 🟣 HTML5  
+- 🔵 CSS3  
+- 🟡 JavaScript  
+- 🟢 Python  
+- 🔴 PHP  
+- 🟠 SQL  
+- 🔷 JSON  
+
+---
+
+## ⚙️ Frameworks & Tools
+
+- React.js  
+- Node.js  
+- Express.js  
+- Bootstrap  
+- Tailwind CSS  
+- Git & GitHub  
+- VS Code  
+- Linux  
+- REST APIs  
+
+---
+
+## 📊 GitHub Stats (Multi-Color)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=radical&hide_border=true&title_color=FF61D2&icon_color=00C9FF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imranraja09&theme=radical&hide_border=true&ring=F857A6&fire=00C9FF&currStreakLabel=F9D423" height="170"/>
 </p>
 
 <p align="center">
@@ -38,40 +74,23 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies (WORKING)</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imranraja09&theme=radical&no-frame=true&row=2&column=6"/>
 </p>
 
 ---
 
-<h2 align="center">🎮 Live Games (ALL WORKING)</h2>
+## 🐍 Contribution Snake Animation
 
-<h3 align="center">🐍 Snake Game</h3>
 <p align="center">
-<a href="https://playsnake.org/" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Snake-FF61D2?style=for-the-badge&logo=game&logoColor=white"/>
-</a>
-</p>
-
-<h3 align="center">🧩 Tetris Game</h3>
-<p align="center">
-<a href="https://tetris.com/play-tetris" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Tetris-00C9FF?style=for-the-badge&logo=game&logoColor=white"/>
-</a>
-</p>
-
-<h3 align="center">🏎️ Car Racing Game</h3>
-<p align="center">
-<a href="https://www.crazygames.com/game/madalin-stunt-cars-2" target="_blank">
-<img src="https://img.shields.io/badge/Play%20Racing-F9D423?style=for-the-badge&logo=game&logoColor=white"/>
-</a>
+<img src="https://github.com/imranraja09/imranraja09/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
+## 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranraja09&bg_color=0D1117&color=FF61D2&line=00C9FF&point=F9D423&area=true&hide_border=true"/>
@@ -79,7 +98,54 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🚀 Featured Projects
+
+### 🤖 Jarvis AI Assistant
+- Voice Controlled AI Assistant  
+- NLP + AI Integration  
+- Smart Responses  
+- Automation Features  
+
+### 🎬 Movie Streaming Website
+- Responsive UI  
+- Dynamic Movie Pages  
+- Search & Filter  
+- User Authentication  
+
+### 🌐 Web Applications
+- Business Websites  
+- Portfolio Websites  
+- Admin Dashboards  
+- Custom Web Apps  
+
+---
+
+## 🎮 Live Games (Working)
+
+### 🐍 Snake Game
+<p align="center">
+<a href="https://playsnake.org/" target="_blank">
+<img src="https://img.shields.io/badge/Play%20Snake-FF61D2?style=for-the-badge"/>
+</a>
+</p>
+
+### 🧩 Tetris Game
+<p align="center">
+<a href="https://tetris.com/play-tetris" target="_blank">
+<img src="https://img.shields.io/badge/Play%20Tetris-00C9FF?style=for-the-badge"/>
+</a>
+</p>
+
+### 🏎️ Racing Game
+<p align="center">
+<a href="https://www.crazygames.com/game/madalin-stunt-cars-2" target="_blank">
+<img src="https://img.shields.io/badge/Play%20Racing-F9D423?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🌐 Social & Contact Links
 
 <p align="center">
 <a href="https://instagram.com/__imran.mlyk" target="_blank">
@@ -101,7 +167,16 @@
 
 ---
 
-<h2 align="center">🔥 Profile Views</h2>
+## 📫 Contact Me
+
+- 📧 Email: (Add your email here)  
+- 🌍 Portfolio: (Add your portfolio link)  
+- 💬 DM on Instagram  
+- 🤝 Connect on LinkedIn  
+
+---
+
+## 👀 Profile Views Counter
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=imranraja09&style=for-the-badge&color=FF61D2"/>
@@ -109,11 +184,33 @@
 
 ---
 
-<!-- Footer -->
+## 🌟 Fun Facts
+
+- 💡 Love learning new tech  
+- 🎨 Enjoy designing colorful UI  
+- 🤖 Passion for AI & Automation  
+- 🚀 Dream to build big tech products  
+
+---
+
+## 🧠 Goals
+
+- Build advanced AI systems  
+- Launch SaaS products  
+- Grow open-source projects  
+- Create powerful web platforms  
+
+---
+
+<!-- ===================== -->
+<!-- Animated Gradient Footer -->
+<!-- ===================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&animation=twinkling"/>
 </p>
 
 <p align="center">
-✨ Made with ❤️ by <b>Imran Raja</b> ✨  
+💖 Designed & Developed by <b>Imran Raja</b>  
+🌈 Code • Create • Innovate • Repeat  
 </p>

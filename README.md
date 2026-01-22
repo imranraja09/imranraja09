@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center" >## 💫 About Me</h1>
+## 💫 About Me
 
 <p align="center">
 👨‍💻 Web Developer & AI Explorer  

@@ -82,7 +82,7 @@
 
 ---
 
-## 🐍 Working Snake Game 🎮
+## 🐍 Snake Game 🎮
 
 
 <!-- Snake Game Repo View -->

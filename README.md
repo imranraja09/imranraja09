@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats (Animated & Colorful)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=radical&hide_border=true" height="180"/>
@@ -84,15 +84,16 @@
 
 ## 🐍 Working Snake Game 🎮
 
-<p align="center">
-  <a href="https://playsnake.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake%20Game-00C9FF?style=for-the-badge&logo=gamejolt&logoColor=white" />
-  </a>
-</p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## 🐍 Contribution Snake Animation (Optional Advanced)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imranraja09/imranraja09/output/github-contribution-grid-snake.svg" />

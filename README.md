@@ -93,7 +93,11 @@
 
 ---
 
-<iframe src="https://i.postimg.cc/KYJY9208/OCI25AICFAV1.png" width="100%" height="600" style="border:0;" loading="lazy"></iframe>
+<p align="center">
+  <a href="https://i.postimg.cc/KYJY9208/OCI25AICFAV1.png" target="_blank">
+    <img src="https://i.postimg.cc/KYJY9208/OCI25AICFAV1.png" width="80" style="border-radius:50%; border:2px solid #6366f1;" alt="OCI"/>
+  </a>
+</p>
 
 
 ---

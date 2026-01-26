@@ -7,7 +7,7 @@
 </p>
 
 <!-- Typing Animation -->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=03fc77&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Tools+Learner;Building+Cool+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
@@ -92,8 +92,9 @@
 </div>
 
 ---
+## 🏆 OCI AI Certification Badge
 
-<p align="center">
+<p align="left">
   <a href="https://i.postimg.cc/KYJY9208/OCI25AICFAV1.png" target="_blank">
     <img src="https://i.postimg.cc/KYJY9208/OCI25AICFAV1.png" width="80" style="border-radius:50%; border:2px solid #6366f1;" alt="OCI"/>
   </a>

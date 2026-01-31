@@ -70,10 +70,12 @@
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=imranraja09&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imranraja09&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imranraja09&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=tokyonight)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imranraja09&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
 
 </p>

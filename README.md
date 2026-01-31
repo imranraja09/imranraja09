@@ -76,13 +76,6 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?username=imranraja09&theme=radical&hide_border=true" height="180"/>
 </p> -->
 
-### 🏅 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=imranraja09&theme=onedark)
-
-### 🔥 GitHub Streak
-https://streak-stats.demolab.com?user=imranraja09&theme=tokyonight
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranraja09&show_icons=true&theme=tokyonight)
 
 
 <p align="center">

@@ -76,9 +76,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imranraja09&show_icons=true&layout=compact&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 

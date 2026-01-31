@@ -74,11 +74,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=imranraja09&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imranraja09&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imranraja09&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
-
-
-</p>
 
 
 <p align="center">
